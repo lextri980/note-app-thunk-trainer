@@ -24,11 +24,11 @@ Before you continue, ensure you meet the following requirements:
 ### Technologies
 #### 1. Client folder
 - Framework: `ReactJS`
-- State management: `Redux` `Redux-thunk` `Redux-persist`
-- Form handler: `Formik` `Yup`
-- UI lib: `Reactstrap`
-- Style: `SCSS` `Styled-components`
+- State management: `redux` `redux-thunk` `redux-persist`
+- Form handler: `formik` `yup`
+- UI lib: `reactstrap`
+- Style: `scss` `styled-components`
 #### 2. Server folder
 - Framework: `ExpressJS`
-- Database: `MongoDB` `Mongoose`
-- Auth: `Jsonwebtoken`
+- Database: `mongoDB` `mongoose`
+- Auth: `jsonwebtoken`
