@@ -7,6 +7,7 @@ import Note from "./pages/Note/Note";
 import PrivateRoute from "./config/PrivateRoute";
 
 function App() {
+  console.log(1);
   return (
     <div className="App">
       <Router>
